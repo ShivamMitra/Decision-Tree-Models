@@ -17,16 +17,16 @@ This repository aims to teach core concepts behind decision tree algorithms thro
 ## Notebooks / Files Included
 Here’s a breakdown of what you might find:
 
-1. **1_Classification_Tree.ipynb**  
+1. **Classification_Tree.ipynb**  
    Build and visualize decision tree classifiers (e.g., using scikit-learn’s `DecisionTreeClassifier`), covering metrics like accuracy, precision, recall, and confusion matrices.
 
-2. **2_Regression_Tree.ipynb**  
+2. **Regression_Tree.ipynb**  
    Explore decision tree regression (`DecisionTreeRegressor`), with demonstrations on continuous target prediction and evaluation metrics like MAE/MSE.
 
-3. **3_Ensemble_Methods.ipynb** *(if present)*  
+3. **Ensemble_Methods.ipynb** *(if present)*  
    Introduces tree-based ensemble methods such as Random Forests and Gradient Boosting, comparing their performance against single trees.
 
-4. **4_Custom_Tree_Implementation.ipynb** *(if present)*  
+4. **Custom_Tree_Implementation.ipynb** *(if present)*  
    Hand-coded version of decision tree logic—computing entropy/information gain, splitting, recursive tree building—to deepen algorithmic understanding.
 
 5. **Datasets/** *(optional directory)*  
